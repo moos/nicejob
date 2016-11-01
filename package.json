@@ -1,0 +1,25 @@
+{
+  "name": "nicejob",
+  "version": "1.0.0",
+  "description": "Generate a \"nice job\" phrase, or not!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moos/nicejob.git"
+  },
+  "keywords": [
+    "compliment",
+    "nice",
+    "job",
+    "motivate"
+  ],
+  "author": "moos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moos/nicejob/issues"
+  },
+  "homepage": "https://github.com/moos/nicejob#readme"
+}
